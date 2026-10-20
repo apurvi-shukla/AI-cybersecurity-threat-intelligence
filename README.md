@@ -26,7 +26,7 @@ This project uses Machine Learning and Natural Language Processing (NLP) to dete
 - Linear SVC: 98.79%
 
 ## Live Demo
-Coming Soon
+https://ai-cybersecurity-threat-intelligence-apurvi.streamlit.app/
 
 ## Author
 Apurvi Shukla
