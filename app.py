@@ -24,7 +24,7 @@ if st.button("Analyze Email"):
         if prediction == 1:
             st.error("Potential phishing email")
         else:
-            st.info("Predicted as class 0")
+            st.info("legitimate email")
     else:
         st.warning("Please enter an email first.")
 
